@@ -13,7 +13,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-
-[GitHub Profile Views Counter]: https://github.com/cokelaer/github-profile-views-counter
-
-![](https://komarev.com/ghpvc/?cokelaer)
